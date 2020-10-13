@@ -1,0 +1,18 @@
+#box-container{
+    max-width: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: center;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background: blue;
+    margin: 5px;
+}
+
+.color{
+    background-color: red;
+}
